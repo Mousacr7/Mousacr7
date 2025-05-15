@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mousa
+## 👋 Hi, I'm Musa
 
 I'm a passionate **Frontend Developer** focused on building responsive and functional web applications. I enjoy learning modern tools and solving real-world problems with code.
 
