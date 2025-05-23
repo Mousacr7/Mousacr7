@@ -6,12 +6,13 @@ I'm a passionate **Frontend Developer** focused on building responsive and funct
 
 ## 💼 Projects
 
-| Project               | Description                                    | Tech Stack               | Live Demo                          |
-|-----------------------|------------------------------------------------|---------------------------|------------------------------------|
-| 🌦️ **Weather App**       | Displays real-time weather data via API        | HTML, CSS, JS, Weather API | [Live Demo](https://mousacr7.github.io/weather-app/)     |
-| 💱 **Currency Converter** | Converts between currencies in real-time       | HTML, CSS, JS, Exchange API | [Live Demo](https://mousacr7.github.io/currency-converter/)      |
-| ☕ **Coffee Shop Website**| Static multi-section landing page             | HTML, CSS, JS             | [Live Demo](https://mousacr7.github.io/coffee-restaurant/)     |
-| ✅ **Task Tracker (React)** | Add/delete tasks using React + JSON server     | React, CSS, JSON Server   | Local only *(backend required)*   |
+| Project                  | Description                                    | Tech Stack               | Live Demo                          |
+|--------------------------|------------------------------------------------|---------------------------|------------------------------------|
+| 🌦️ **Weather App**          | Displays real-time weather data via API        | HTML, CSS, JS, Weather API | [Live Demo](https://mousacr7.github.io/weather-app/)     |
+| 💱 **Currency Converter**    | Converts between currencies in real-time       | HTML, CSS, JS, Exchange API | [Live Demo](https://mousacr7.github.io/currency-converter/)      |
+| ☕ **Coffee Shop Website**   | Static multi-section landing page             | HTML, CSS, JS             | [Live Demo](https://mousacr7.github.io/coffee-restaurant/)     |
+| ✅ **Task Tracker (React)**  | Add/delete tasks using React + JSON server     | React, CSS, JSON Server   | [Local only *(backend required)*](https://tasktracekr.netlify.app/)   |
+| 🧑‍💻 **Portfolio Website**     | Personal developer portfolio to showcase work | React, CSS            | [Live Demo](https://musa-portfolio.netlify.app/)     |
 
 ---
 
@@ -40,5 +41,3 @@ I'm actively looking for **remote freelance or junior developer opportunities**,
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
--->
