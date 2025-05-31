@@ -13,6 +13,7 @@ I'm a passionate **Frontend Developer** focused on building responsive and funct
 | ☕ **Coffee Shop Website**   | Static multi-section landing page             | HTML, CSS, JS             | [Live Demo](https://mousacr7.github.io/coffee-restaurant/)     |
 | ✅ **Task Tracker (React)**  | Add/delete tasks using React + JSON server     | React, CSS, JSON Server   | [Local only *(backend required)*](https://tasktracekr.netlify.app/)   |
 | 🧑‍💻 **Portfolio Website**     | Personal developer portfolio to showcase work | React, CSS            | [Live Demo](https://musa-portfolio.netlify.app/)     |
+| 🛒 **Coffee E-Commerce Site**     | Fully responsive artisan-style coffee store with shopping cart | HTML, CSS, JS        | [Live Demo](https://mousacr7.github.io/coffee-shop-ecommerce/)     |
 
 ---
 
