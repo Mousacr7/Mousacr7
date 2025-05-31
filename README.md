@@ -8,12 +8,12 @@ I'm a passionate **Frontend Developer** focused on building responsive and funct
 
 | Project                  | Description                                    | Tech Stack               | Live Demo                          |
 |--------------------------|------------------------------------------------|---------------------------|------------------------------------|
+| 🛒 **Coffee E-Commerce Site**     | Fully responsive artisan-style coffee store with shopping cart | HTML, CSS, JS        | [Live Demo](https://mousacr7.github.io/coffee-shop-ecommerce/)     |
+| 🧑‍💻 **Portfolio Website**     | Personal developer portfolio to showcase work | React, CSS            | [Live Demo](https://musa-portfolio.netlify.app/)     |
 | 🌦️ **Weather App**          | Displays real-time weather data via API        | HTML, CSS, JS, Weather API | [Live Demo](https://mousacr7.github.io/weather-app/)     |
 | 💱 **Currency Converter**    | Converts between currencies in real-time       | HTML, CSS, JS, Exchange API | [Live Demo](https://mousacr7.github.io/currency-converter/)      |
 | ☕ **Coffee Shop Website**   | Static multi-section landing page             | HTML, CSS, JS             | [Live Demo](https://mousacr7.github.io/coffee-restaurant/)     |
 | ✅ **Task Tracker (React)**  | Add/delete tasks using React + JSON server     | React, CSS, JSON Server   | [Local only *(backend required)*](https://tasktracekr.netlify.app/)   |
-| 🧑‍💻 **Portfolio Website**     | Personal developer portfolio to showcase work | React, CSS            | [Live Demo](https://musa-portfolio.netlify.app/)     |
-| 🛒 **Coffee E-Commerce Site**     | Fully responsive artisan-style coffee store with shopping cart | HTML, CSS, JS        | [Live Demo](https://mousacr7.github.io/coffee-shop-ecommerce/)     |
 
 ---
 
