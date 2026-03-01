@@ -20,12 +20,12 @@ I’m a passionate **Frontend Developer** who loves building responsive, user-fo
 
 | Project                        | Description                                                                 | Tech Stack                        | Live Demo |
 |-------------------------------|-----------------------------------------------------------------------------|-----------------------------------|-----------|
-| 🛍️ [**PrimeMart**](https://primemart-react.netlify.app/) | E-commerce site with Firebase auth & real-time cart | React, Firebase, CSS | [Live](https://primemart-react.netlify.app/) |
-| 🛒 [**Coffee E-Commerce**](https://mousacr7.github.io/coffee-shop-ecommerce/) | Artisan coffee shop with cart system | HTML, CSS, JS | [Live](https://mousacr7.github.io/coffee-shop-ecommerce/) |
-| 🌐 [**Portfolio Site**](https://musa-portfolio.netlify.app/) | Developer portfolio with smooth UI | React, CSS | [Live](https://musa-portfolio.netlify.app/) |
-| 🌦️ [**Weather App**](https://mousacr7.github.io/weather-app/) | Shows live weather via API | HTML, CSS, JS | [Live](https://mousacr7.github.io/weather-app/) |
-| 💱 [**Currency Converter**](https://mousacr7.github.io/currency-converter/) | Real-time exchange rate calculator | HTML, CSS, JS | [Live](https://mousacr7.github.io/currency-converter/) |
-| ☕ [**Coffee Landing Page**](https://mousacr7.github.io/coffee-restaurant/) | Static landing page | HTML, CSS, JS | [Live](https://mousacr7.github.io/coffee-restaurant/) |
+| 🛍️ [**PrimeMart**](https://github.com/Mousacr7/primemart) | E-commerce site with Firebase auth & real-time cart | React, Firebase, CSS | [Live]( https://primemartm.netlify.app) |
+| 🛒 [**Coffee E-Commerce**](https://github.com/Mousacr7/coffee-shop-ecommerce) | Artisan coffee shop with cart system | HTML, CSS, JS | [Live](https://mousacr7.github.io/coffee-shop-ecommerce/) |
+| 🌐 [**Portfolio Site**](https://github.com/Mousacr7/portofolio) | Developer portfolio with smooth UI | React, CSS | [Live](https://musa-portfolio.netlify.app/) |
+| 🌦️ [**Weather App**](https://mousacr7.github.com/weather-app/) | Shows live weather via API | HTML, CSS, JS | [Live](https://mousacr7.github.io/weather-app/) |
+| 💱 [**Currency Converter**](https://mousacr7.github.com/currency-converter/) | Real-time exchange rate calculator | HTML, CSS, JS | [Live](https://mousacr7.github.com/currency-converter/) |
+| ☕ [**Coffee Landing Page**](https://mousacr7.github.com/coffee-restaurant/) | Static landing page | HTML, CSS, JS | [Live](https://mousacr7.github.io/coffee-restaurant/) |
 | ✅ [**Task Tracker (React)**](https://tasktracekr.netlify.app/) | Manage tasks with mock API | React, JSON Server | [Live](https://tasktracekr.netlify.app/) *(local API required)* |
 
 ---
